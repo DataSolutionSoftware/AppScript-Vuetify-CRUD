@@ -1,4 +1,4 @@
-# AppScript Vuetify CRUD operations .
+# AppScript Vuetify CRUD operations
 
 1. Spreadsheet: https://docs.google.com/spreadsheets/d/1MqgBhMS7MvZ7VCl4JUrFbFmphYCax3sr3x8gbA-rSvg/edit#gid=1990848786
 
